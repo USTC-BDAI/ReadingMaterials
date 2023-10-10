@@ -1,7 +1,7 @@
 # ReadingMaterials
 Reading materials for Scientific Computation and Machine Learning
 
-[toc]
+[TOC]
 
 ## Scientific Computation
 
@@ -70,9 +70,9 @@ Reading materials for Scientific Computation and Machine Learning
 
 |Title|Year|Authors|Link|Description|
 |:--:|:--:|:--:|:--:|:--:|
-|||||AlexNet|
-|||||InceptionNet|
-|||||ResNet|
+|ImageNet Classification with Deep Convolutional Neural Networks|2012|Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton|[NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)|AlexNet|
+|Going Deeper With Convolutions|2015|Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich|[CVPR](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Szegedy_Going_Deeper_With_2015_CVPR_paper.html)|InceptionNet|
+|Deep Residual Learning for Image Recognition|2016|Kaiming He,  Xiangyu Zhang, Shaoqing Ren, Jian Sun|[CVPR](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf?_hsenc=p2ANqtz-_QiyyY2TSWPAmgDMPMomcXCfnQJLAbgU7SPqAQszQnwme7O58FCu297FfN9yjmRJQa6K3h)|ResNet|
 
 ### Transformer
 
