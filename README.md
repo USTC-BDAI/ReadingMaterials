@@ -127,7 +127,7 @@ Contents:
 
 - 驱动下载链接：[Nvidia drivers](https://www.nvidia.com/Download/index.aspx?lang=en-us)
 - 官方安装驱动指导：[Installation](https://docs.nvidia.com/datacenter/tesla/tesla-installation-notes/index.html)
-- Ubuntu 系统安装 N 卡驱动介绍：[Ubuntu installation]()
+- Ubuntu 系统安装 N 卡驱动介绍：[Ubuntu installation](https://blog.csdn.net/huiyoooo/article/details/128015155)
 
 ### Some implementations
 
