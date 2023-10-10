@@ -1,7 +1,26 @@
 # ReadingMaterials
 Reading materials for Scientific Computation and Machine Learning
 
-[TOC]
+Contents:
+- [ReadingMaterials](#readingmaterials)
+  - [Scientific Computation](#scientific-computation)
+    - [Finite element](#finite-element)
+    - [Finite difference](#finite-difference)
+    - [Neural Network-based](#neural-network-based)
+    - [Operator Learning](#operator-learning)
+    - [Computer Aided Design](#computer-aided-design)
+      - [Mesh Generation](#mesh-generation)
+  - [Machine Learning](#machine-learning)
+    - [Basic](#basic)
+    - [CNN](#cnn)
+    - [Transformer](#transformer)
+    - [Generative Models](#generative-models)
+  - [Coding Related](#coding-related)
+    - [Python](#python)
+    - [Deep learning framework 1: PyTorch](#deep-learning-framework-1-pytorch)
+    - [Deep learning framework 2: Tensorflow](#deep-learning-framework-2-tensorflow)
+    - [NVIDIA drivers](#nvidia-drivers)
+    - [Some implementations](#some-implementations)
 
 ## Scientific Computation
 
