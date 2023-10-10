@@ -78,6 +78,7 @@ Contents:
 |Title|Year|Authors|Link|Description|
 |:--:|:--:|:--:|:--:|:--:|
 |Deep Learning|2016|Ian Goodfellow and Yoshua Bengio and Aaron Courville|[Web](https://www.deeplearningbook.org/)|花书|
+|Frequency Principle: Fourier Analysis Sheds Light on Deep Neural Networks|2020|Zhi-Qin John Xu, Yaoyu Zhang, Tao Luo, Yanyang Xiao & Zheng Ma|[CiCP](https://global-sci.org/intro/article_detail/cicp/18395.html)|频率原理|
 
 - papers
 
@@ -97,13 +98,18 @@ Contents:
 
 |Title|Year|Authors|Link|Description|
 |:--:|:--:|:--:|:--:|:--:|
-||||||
+|Attention is All you Need|2017|Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, Illia Polosukhin|[NeurIPS](https://papers.nips.cc/paper_files/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)||
+|An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale|2021|Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby|[ICLR](https://openreview.net/forum?id=YicbFdNTTy)|ViT|
 
 ### Generative Models
 
 |Title|Year|Authors|Link|Description|
 |:--:|:--:|:--:|:--:|:--:|
-||||||
+|Auto-Encoding Variational Bayes|2013|Diederik P. Kingma, Max Welling|[ICLR](https://openreview.net/forum?id=33X9fd2-9FyZd)|VAE|
+|Generative Adversarial Nets|2014|Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio|[NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2014/hash/5ca3e9b122f61f8f06494c97b1afccf3-Abstract.html)|GAN|
+|Density estimation using Real NVP|2017|Laurent Dinh, Jascha Sohl-Dickstein, Samy Bengio|[ICLR](https://openreview.net/forum?id=HkpbnH9lx)|Real NVP (标准化流)|
+|Denoising Diffusion Probabilistic Models|2020|Jonathan Ho, Ajay Jain, Pieter Abbeel|[NeurIPS](https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html)|DDPM 扩散模型|
+|Score-Based Generative Modeling through Stochastic Differential Equations|2021|Yang Song, Jascha Sohl-Dickstein, Diederik P Kingma, Abhishek Kumar, Stefano Ermon, Ben Poole|[ICLR](https://openreview.net/forum?id=PxTIG12RRHS)|Score SDE 扩散模型连续化|
 
 ## Coding Related
 
@@ -127,7 +133,7 @@ Contents:
 
 - 驱动下载链接：[Nvidia drivers](https://www.nvidia.com/Download/index.aspx?lang=en-us)
 - 官方安装驱动指导：[Installation](https://docs.nvidia.com/datacenter/tesla/tesla-installation-notes/index.html)
-- Ubuntu 系统安装 N 卡驱动介绍：[Ubuntu installation]()
+- Ubuntu 系统安装 N 卡驱动介绍：[Ubuntu installation](https://blog.csdn.net/huiyoooo/article/details/128015155)
 
 ### Some implementations
 
