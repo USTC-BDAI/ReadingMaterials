@@ -26,9 +26,11 @@ Contents:
 
 ### Finite element
 
+- books
+
 |Title|Year|Authors|Link|Description|
 |:--:|:--:|:--:|:--:|:--:|
-||||||
+|有限元方法的数学基础|2004|王烈衡，许学军|[book](./assets/note_169745363673169539d.pdf)||
 
 ### Finite difference
 
@@ -40,7 +42,9 @@ Contents:
 
 |Title|Year|Authors|Link|Description|
 |:--:|:--:|:--:|:--:|:--:|
+|DGM: A deep learning algorithm for solving partial differential equations|2018|Justin Sirignano, Konstantinos Spiliopoulos|[JCP](https://www.sciencedirect.com/science/article/pii/S0021999118305527)|DGM|
 |Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations|2019|Raissi, Maziar, Paris Perdikaris, and George E. Karniadakis|[JCP](https://www.sciencedirect.com/science/article/pii/S0021999118307125)|PINN|
+|Weak adversarial networks for high-dimensional partial differential equations|2020|Zang, Y., Bao, G., Ye, X., & Zhou, H|[JCP](https://www.sciencedirect.com/science/article/pii/S0021999120301832)|WAN|
 |Bridging Traditional and Machine Learning-Based Algorithms for Solving PDEs: The Random Feature Method|2022|Jingrun Chen, Xurong Chi, Weinan E & Zhouwang Yang|[JML](https://global-sci.org/intro/article_detail/jml/21029.html)|RFM|
 |The Random Feature Method for Time-Dependent Problems|2023|Jing-Run Chen, Weinan E & Yi-Xin Luo|[EAJAM](https://global-sci.org/intro/article_detail/eajam/21718.html)|ST-RFM|
 
@@ -78,13 +82,13 @@ Contents:
 |Title|Year|Authors|Link|Description|
 |:--:|:--:|:--:|:--:|:--:|
 |Deep Learning|2016|Ian Goodfellow and Yoshua Bengio and Aaron Courville|[Web](https://www.deeplearningbook.org/)|花书|
-|Frequency Principle: Fourier Analysis Sheds Light on Deep Neural Networks|2020|Zhi-Qin John Xu, Yaoyu Zhang, Tao Luo, Yanyang Xiao & Zheng Ma|[CiCP](https://global-sci.org/intro/article_detail/cicp/18395.html)|频率原理|
 
 - papers
 
 |Title|Year|Authors|Link|Description|
 |:--:|:--:|:--:|:--:|:--:|
 |Approximation by superpositions of a sigmoidal function|1989|G. Cybenko|[Mathematics of Control, Signals and Systems](https://link.springer.com/article/10.1007/BF02551274)|万有逼近定理|
+|Frequency Principle: Fourier Analysis Sheds Light on Deep Neural Networks|2020|Zhi-Qin John Xu, Yaoyu Zhang, Tao Luo, Yanyang Xiao & Zheng Ma|[CiCP](https://global-sci.org/intro/article_detail/cicp/18395.html)|频率原理|
 
 ### CNN
 
