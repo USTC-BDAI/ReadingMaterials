@@ -7,10 +7,12 @@ Contents:
     - [Finite element](#finite-element)
     - [Finite difference](#finite-difference)
     - [Neural Network-based](#neural-network-based)
+      - [Deep neural network-based](#deep-neural-network-based)
+      - [Extreme learning machine-based](#extreme-learning-machine-based)
     - [Operator Learning](#operator-learning)
     - [Computer Aided Design](#computer-aided-design)
       - [Mesh Generation](#mesh-generation)
-    - [3D Vision](#3d-vision)
+      - [3D Vision](#3d-vision)
   - [Machine Learning](#machine-learning)
     - [Basic](#basic)
     - [CNN](#cnn)
@@ -41,11 +43,19 @@ Contents:
 
 ### Neural Network-based
 
+#### Deep neural network-based
+
 |Title|Year|Authors|Link|Description|
 |:--:|:--:|:--:|:--:|:--:|
 |DGM: A deep learning algorithm for solving partial differential equations|2018|Justin Sirignano, Konstantinos Spiliopoulos|[JCP](https://www.sciencedirect.com/science/article/pii/S0021999118305527)|DGM|
 |Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations|2019|Raissi, Maziar, Paris Perdikaris, and George E. Karniadakis|[JCP](https://www.sciencedirect.com/science/article/pii/S0021999118307125)|PINN|
 |Weak adversarial networks for high-dimensional partial differential equations|2020|Zang, Y., Bao, G., Ye, X., & Zhou, H|[JCP](https://www.sciencedirect.com/science/article/pii/S0021999120301832)|WAN|
+
+#### Extreme learning machine-based
+
+|Title|Year|Authors|Link|Description|
+|:--:|:--:|:--:|:--:|:--:|
+|Extreme learning machine: Theory and applications|2006|Guang-Bin Huang, Qin-Yu Zhu, Chee-Kheong Siew|[NeuroComputing](https://www.sciencedirect.com/science/article/pii/S0925231206000385)|ELM|
 |Local Extreme Learning Machines and Domain Decomposition for Solving Linear and Nonlinear Partial Differential Equations|2021|Suchuan Dong, Zongwei Li|[JCP](https://www.sciencedirect.com/science/article/pii/S0045782521004606)|locELM|
 |Bridging Traditional and Machine Learning-Based Algorithms for Solving PDEs: The Random Feature Method|2022|Jingrun Chen, Xurong Chi, Weinan E & Zhouwang Yang|[JML](https://global-sci.org/intro/article_detail/jml/21029.html)|RFM|
 |The Random Feature Method for Time-Dependent Problems|2023|Jing-Run Chen, Weinan E & Yi-Xin Luo|[EAJAM](https://global-sci.org/intro/article_detail/eajam/21718.html)|ST-RFM|
@@ -75,7 +85,7 @@ Contents:
 |In-Timestep Remeshing for Contacting Elastodynamics|2023|Zachary Ferguson, Teseo Schneider, Danny Kaufman, Daniele Panozzo|[TOG](https://dl.acm.org/doi/10.1145/3592428)||
 |Constrained Delaunay Tetrahedrization: A Robust and Practical Approach|2023|LORENZO DIAZZI, DANIELE PANOZZO, AMIR VAXMAN, MARCO ATTENE|[Siggragh Asia](https://www.physicsbasedanimation.com/2023/09/25/constrained-delaunay-tetrahedrization-a-robust-and-practical-approach/)||
 
-### 3D Vision
+#### 3D Vision
 
 |Title|Year|Authors|Link|Description|
 |:--:|:--:|:--:|:--:|:--:|
