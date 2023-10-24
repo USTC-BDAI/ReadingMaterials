@@ -10,6 +10,7 @@ Contents:
     - [Operator Learning](#operator-learning)
     - [Computer Aided Design](#computer-aided-design)
       - [Mesh Generation](#mesh-generation)
+    - [3D Vision](#3d-vision)
   - [Machine Learning](#machine-learning)
     - [Basic](#basic)
     - [CNN](#cnn)
@@ -45,6 +46,7 @@ Contents:
 |DGM: A deep learning algorithm for solving partial differential equations|2018|Justin Sirignano, Konstantinos Spiliopoulos|[JCP](https://www.sciencedirect.com/science/article/pii/S0021999118305527)|DGM|
 |Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations|2019|Raissi, Maziar, Paris Perdikaris, and George E. Karniadakis|[JCP](https://www.sciencedirect.com/science/article/pii/S0021999118307125)|PINN|
 |Weak adversarial networks for high-dimensional partial differential equations|2020|Zang, Y., Bao, G., Ye, X., & Zhou, H|[JCP](https://www.sciencedirect.com/science/article/pii/S0021999120301832)|WAN|
+|Local Extreme Learning Machines and Domain Decomposition for Solving Linear and Nonlinear Partial Differential Equations|2021|Suchuan Dong, Zongwei Li|[JCP](https://www.sciencedirect.com/science/article/pii/S0045782521004606)|locELM|
 |Bridging Traditional and Machine Learning-Based Algorithms for Solving PDEs: The Random Feature Method|2022|Jingrun Chen, Xurong Chi, Weinan E & Zhouwang Yang|[JML](https://global-sci.org/intro/article_detail/jml/21029.html)|RFM|
 |The Random Feature Method for Time-Dependent Problems|2023|Jing-Run Chen, Weinan E & Yi-Xin Luo|[EAJAM](https://global-sci.org/intro/article_detail/eajam/21718.html)|ST-RFM|
 
@@ -72,6 +74,12 @@ Contents:
 |DEF: Deep Estimation of Sharp Geometric Features in 3D Shapes|2022|Albert Matveev, Ruslan Rakhimov, Alexey Artemov, Gleb Bobrovskikh, Vage Egiazarian, Emil Bogomolov, Daniele Panozzo, Denis Zorin, Evgeny Burnaev|[TOG](https://dl.acm.org/doi/10.1145/3528223.3530140)||
 |In-Timestep Remeshing for Contacting Elastodynamics|2023|Zachary Ferguson, Teseo Schneider, Danny Kaufman, Daniele Panozzo|[TOG](https://dl.acm.org/doi/10.1145/3592428)||
 |Constrained Delaunay Tetrahedrization: A Robust and Practical Approach|2023|LORENZO DIAZZI, DANIELE PANOZZO, AMIR VAXMAN, MARCO ATTENE|[Siggragh Asia](https://www.physicsbasedanimation.com/2023/09/25/constrained-delaunay-tetrahedrization-a-robust-and-practical-approach/)||
+
+### 3D Vision
+
+|Title|Year|Authors|Link|Description|
+|:--:|:--:|:--:|:--:|:--:|
+|An Invitation to 3-D Vision|2010|Yi Ma, Stefano Soatto, Jana Košecká, S. Shankar Sastry|[Springer](https://link.springer.com/book/10.1007/978-0-387-21779-6)||
 
 ## Machine Learning
 
