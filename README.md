@@ -139,6 +139,8 @@ Contents:
 
 - Homepage: [Python](https://www.python.org/)
 - 教程：[菜鸟教程](https://www.runoob.com/python/python-tutorial.html)
+- Anaconda 环境管理器：[官网](https://www.anaconda.com/)，[介绍](https://zhuanlan.zhihu.com/p/123188004)
+- Virtualenv 环境管理器：[官网](https://virtualenv.pypa.io/en/latest/)，[介绍](https://www.cnblogs.com/doublexi/p/15783355.html)
 
 ### Deep learning framework 1: PyTorch
 

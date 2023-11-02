@@ -1,23 +1,43 @@
-# Enviroments
+# Preparing
 
-- Run the following command to create a conda environment
+- [Anaconda](../../../README.md#python)
 
-  ```shell
-  conda create -n rfm python=3.10
-  ```
-- Activate the environment
+  - Run the following command to create a conda environment
 
-  ```shell
-  conda activate rfm
-  ```
-- Install the necessary python packages
+    ```shell
+    conda create -n rfm python=3.10
+    ```
+  - Activate the environment
 
-  ```shell
-  pip install -r requirements.txt
-  ```
-- Done.
+    ```shell
+    conda activate rfm
+    ```
+  - Install the necessary python packages
 
-# Scripts
+    ```shell
+    pip install -r requirements.txt
+    ```
+
+- [Virtualenv](../../../README.md#python)
+
+  - Run the following command to create a virtualenv environment
+    ```shell
+    virtualenv rfm
+    ```
+
+  - Activate the environment
+
+    ```shell
+    source rfm/bin/activate
+    ```
+  - Install the necessary python packages
+
+    ```shell
+    pip install -r requirements.txt
+    ```
+  
+
+# Running Scripts
 
 1. Helmholtz equation in one dimension
 
