@@ -161,5 +161,4 @@ Contents:
 
 ### Some implementations
 
-- Deep Ritz and PINN: [Jupyter notebook](coding/some-implementations/Nonsmooth_solution.ipynb)
-- RFM: [Python scripts](coding/some-implementations/RFM/)
+- [Link](coding/some-implementations/)

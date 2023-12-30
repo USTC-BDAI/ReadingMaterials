@@ -17,14 +17,13 @@
     ```shell
     pip install -r requirements.txt
     ```
-
 - [Virtualenv](../../../README.md#python)
 
   - Run the following command to create a virtualenv environment
+
     ```shell
     virtualenv rfm
     ```
-
   - Activate the environment
 
     ```shell
@@ -35,7 +34,6 @@
     ```shell
     pip install -r requirements.txt
     ```
-  
 
 # Running Scripts
 
@@ -45,4 +43,8 @@
 python locelm_helm1d_psia.py
 ```
 
-2. To be added...
+2. Schrodinger equation in one dimension
+   ```
+   python oned_rfm_schrodinger.py
+   ```
+3. To be added
